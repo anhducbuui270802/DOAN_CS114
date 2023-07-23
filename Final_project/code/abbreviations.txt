@@ -1,0 +1,38 @@
+k:không
+hong:không
+hông:không
+ko:không
+hk:không
+khg:không
+iu:yêu
+thick:thích
+thíck:thích
+thik:thích
+vk:vợ
+ck:chồng
+ncl:nói chung là
+toẹt:tuyệt
+nhg:nhưng 
+baoh:bao giờ
+kbh:không bao giờ
+nv:nhân viên
+ship:giao hàng
+m:mình
+mk:mình
+mik:mình
+qá:quá
+good:tốt
+bt:bình thường
+bthuong:bình thường
+đc:được
+dc:được
+rep:trả lời
+ib:nhắn tin
+thank:cảm ơn
+thanks:cảm ơn
+tks:cảm ơn
+r:rồi
+nc:nước
+oki:ok
+oke:ok
+okela:ok
