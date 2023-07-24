@@ -464,7 +464,6 @@ nhờ_nhờ
 thật_sự
 nước
 tới
-không_bán
 chuyển_tự
 nhớ
 ờ_ờ
@@ -746,7 +745,6 @@ ra_ngôi
 tự_lượng
 phỏng_tính
 nghe_được
-hay_không
 nhờ_đó
 do_vậy
 vùng_lên
@@ -932,7 +930,6 @@ giảm_chính
 trước_đó
 gây_thêm
 đã_vậy
-không_những
 nghe_đâu
 lấy_vào
 mức
@@ -1056,7 +1053,6 @@ nói_toẹt
 tọt
 lấy
 xăm_xúi
-không_gian
 căn_cái
 lại
 biết_đâu_chừng
@@ -1096,7 +1092,6 @@ ba
 nhận_biết
 luôn
 biết_thế
-không_dùng
 thực_hiện
 biết_chừng_nào
 nhìn_chung
@@ -1107,7 +1102,6 @@ cho_thấy
 bỏ_ra
 để_được
 ối_giời
-như_không
 phải_cách
 hoặc
 lòng
@@ -1572,7 +1566,6 @@ bát
 ý_hoặc
 xệp
 tấn
-không_biết
 chớ_chi
 có_thể
 nên_làm
@@ -1621,7 +1614,6 @@ hiện_tại
 mỗi_người
 nên_chi
 được_lời
-không_chỉ
 cùng_với
 ba_tăng
 phương_chi
@@ -1755,8 +1747,6 @@ thường_thường
 trong_đó
 ngay_lúc_này
 ba_ba
-chớ_không
-đồ_ăn
 chớ_như
 đâu_đó
 mới_rồi
