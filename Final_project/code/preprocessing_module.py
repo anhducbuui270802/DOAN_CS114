@@ -72,7 +72,7 @@ def remove_duplicate_characters(text):
     return text
 
 # Chuẩn hoá viết tắt
-def abbreviate(text, path = './abbreviations.txt'):
+def abbreviate(text, path = './Final_project/code/abbreviations.txt'):
     # Đọc các cặp giá trị từ file văn bản
     replacements = {}
     with open(path, 'r', encoding='UTF-8') as file:
@@ -89,7 +89,7 @@ def word_token(text):
     return word_tokenize(text, format='text')
 
 # xử lý stopword
-def remove_stopwords(text, path = "./stopword.txt"):
+def remove_stopwords(text, path = "./Final_project/code/stopword.txt"):
     # stopwords = open(path)
     # stopwords = stopwords.readlines()
     # stopwords = [x.strip() for x in stopwords]
